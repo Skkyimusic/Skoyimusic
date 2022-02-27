@@ -1,7 +1,7 @@
-<h2 align="centre">Music Santai Player</h2>
+<h2 align="centre">Music skoyi Player</h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/c262a37b7fbf7ffa663d4.jpg">
+  <img src="https://telegra.ph/file/281dcbc94c5c721395a29.jpg">
 </p>
 
 <h3>Requirements 📝</h3>
@@ -42,11 +42,11 @@
 
 The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/UserbotMaps/musicsantai"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/Skkyimusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 <a href="https://telegram.dog/XTZ_HerokuBot?start=bXVoYW1tYWRyaXpreTE2L0t5eU11c2ljIG1hc3Rlcg"><img src="https://img.shields.io/badge/Deploy%20Via%20Telegram-blue?style=for-the-badge&logo=telegram" width="250""/</a>  </p>
 
 ### Support & Updates 
-<a href="https://t.me/cari_temen_jodoh_random"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/bombleebas"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/cari_pacar_teman_jodoh_anonymous"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/ruangkatastory"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ## Credits
